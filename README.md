@@ -41,4 +41,4 @@ https://www.mathworks.com/help/deeplearning/ref/nnet.cnn.layer.convolution2dlaye
 https://smartinternz.com/externship_dyn/1/artificial-intelligence
 
 ## DEMO LINK
-
+https://drive.google.com/file/d/1VaZoEufjwGuQ2PuOTCzTQepT_cY6i52R/view?usp=sharing
